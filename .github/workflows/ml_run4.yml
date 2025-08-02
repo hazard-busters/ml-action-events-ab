@@ -3,7 +3,7 @@ name: ML Run
 on: 
     push: # when a push is made to the main branch of the repository
       branches:
-          - master
+          # - master
           - development
 jobs:
   ml_run:
