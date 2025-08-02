@@ -28,3 +28,6 @@ accuracy = accuracy_score(y_test, y_pred)
 # Print the accuracy
 print ('Accuracy: ', accuracy*100)
 
+# for development branch 
+print (' This statement will appear only in development branch')
+
